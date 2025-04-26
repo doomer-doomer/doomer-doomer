@@ -10,7 +10,7 @@ Check out the app on PlayStore for more details: [Here](https://play.google.com/
 
 
 
-### Overview
+### Other Activities
 - 🔭 I’m currently working on multiple domains
 - 🌱 I’m currently learning fine-tuning and text generation
 - 👓 Check out my research paper on [arXiv](https://arxiv.org/abs/2411.07300)

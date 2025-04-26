@@ -1,7 +1,7 @@
 ## Hi there 👋
 Tejas here. Right now pursuing my bachelor's in Computer Engineering and intrested on topics such as Machine Learning, Deep Learning, and Natural Language Processing. I have worked on multiple frameworks and built multiple projects throughout my degree. A list of my projects are below, feel free to give them a visit and check them.
 
-### Insight: News Summarizer
+# Insight: News Summarizer
 
 ![Untitled design - 2025-04-26T143752 567](https://github.com/user-attachments/assets/4ecc9b70-6bbc-4694-87c3-3a212a36c16b)
 </br>

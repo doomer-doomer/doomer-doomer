@@ -38,15 +38,6 @@
 An AI-powered Summarizer that figures out precise and accurate information from news to get fast and on-the-go summaries instantly.
 Check out the app on Play Store for more details: [Here](https://play.google.com/store/apps/details?id=com.insight.the_insight)
 
-
-## 📫 Get In Touch
-
-<!-- Social links here (to be personalized) -->
-- Twitter: [@your_twitter](#)
-- LinkedIn: [your-linkedin](#)
-- Personal Website: [yourwebsite.com](#)
-
-
 <p align="center">
   <em>Thanks for visiting! ⭐️<br>
   Let's build something amazing together.</em>
